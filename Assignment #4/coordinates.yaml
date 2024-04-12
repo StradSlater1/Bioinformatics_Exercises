@@ -1,0 +1,13 @@
+- identifier: hg38
+  chrom: chrX
+  start: 15557769
+  sequence_length: 286
+  strand: "+"
+  chromosome_size: 156040895
+- identifier: mm10
+  chrom: chrX
+  start: 6839229
+  sequence_length: 220
+  strand: "-"
+  chromosome_size: 171031299
+
